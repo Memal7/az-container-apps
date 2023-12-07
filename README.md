@@ -1,1 +1,1 @@
-# az-container-apps
+# Azure Container Apps (ACA)
